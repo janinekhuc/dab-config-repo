@@ -1,0 +1,1 @@
+Test repository to config dab pattern for ams.
